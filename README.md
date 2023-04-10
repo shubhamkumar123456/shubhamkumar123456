@@ -1,4 +1,4 @@
-[![MasterHead](https://pbs.twimg.com/media/DQlOsZyVAAAXfAx.jpg)]
+![MasterHead](https://pbs.twimg.com/media/DQlOsZyVAAAXfAx.jpg)
 
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
@@ -10,6 +10,10 @@
 - 💬 Ask me about **react,javascript,css html**
 
 - 📫 How to reach me **shubhamfarainzi@gmail.com**
+<h3>Projects<h3/>
+<ul>
+  <li>TextConvert app  https://text-converter-app-ozb2.vercel.app/</> 
+  <ul/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

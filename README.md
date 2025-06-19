@@ -5,9 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumar123456&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkumar123456" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m a Fullstack (**MERN STACK**) Web Developer
 
-- 💬 Ask me about **react,javascript,css html**
+- 💬 Ask me about **react,javascript,css html, Nodejs, Express Js , Git**
 
 - 📫 How to reach me **shubhamfarainzi@gmail.com**
 <h3>Projects<h3/>

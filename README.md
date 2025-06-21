@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D5622AQHlqyj6Pv5phw/feedshare-shrink_800/feedshare-shrink_800/0/1730183053069?e=2147483647&v=beta&t=xp9en1ipgp0PDrYco6wB6yb4i6p-3a1EgocgqCJzvSE)
+![MasterHead](https://www.synergisticit.com/wp-content/uploads/2021/09/Dallas-Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>

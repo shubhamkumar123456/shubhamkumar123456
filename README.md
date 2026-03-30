@@ -9,7 +9,9 @@
 
 - 💬 Ask me about **react,javascript,css html, Nodejs, Express Js , Git**
 
-- 📫 How to reach me **shubhamfarainzi@gmail.com**
+- 📧 How to reach me: **shubhamfarainzi@gmail.com**
+- 📷 Instagram: **https://www.instagram.com/shubham_farainzi**
+- 💼 LinkedIn: **https://www.linkedin.com/in/shubham-k-6a80b523a/**
 <h3>Projects<h3/>
 <ul>
   <li>ExamApp where user for mcq and notes : https://examfrontendnew.vercel.app/</li>

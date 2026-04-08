@@ -1,39 +1,53 @@
-![MasterHead](https://www.synergisticit.com/wp-content/uploads/2021/09/Dallas-Banner.jpg)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=200&section=header&text=Shubham%20Kumar&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+  ### 👨‍🏫 MERN Stack Trainer | Full Stack Engineer | Tech Mentor
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-k-6a80b523a/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shubham_farainzi)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamfarainzi@gmail.com)
+</div>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumar123456&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkumar123456" /> </p>
 
-- 🌱 I’m a Fullstack (**MERN STACK**) Web Developer
+### 💫 About Me
+- 🔭 **Currently:** Training the next generation of developers in **MERN Stack**.
+- 🌱 **Learning:** Mastering **Data Structures & Algorithms** and **System Design**.
+- 💬 **Ask me about:** React, Node.js, Express, MongoDB, and scaling web apps.
+- ⚡ **Fun Fact:** I transitioned from **Civil Engineering** to Software Engineering—I literally build foundations, both in concrete and in code!
 
-- 💬 Ask me about **react,javascript,css html, Nodejs, Express Js , Git**
 
-- 📧 How to reach me: **shubhamfarainzi@gmail.com**
-- 📷 Instagram: **https://www.instagram.com/shubham_farainzi**
-- 💼 LinkedIn: **https://www.linkedin.com/in/shubham-k-6a80b523a/**
-<h3>Projects<h3/>
-<ul>
-  <li>ExamApp where user for mcq and notes : https://examfrontendnew.vercel.app/</li>
-   <li>Social media website  https://social-media-woad-five.vercel.app/</li>
-  <li>TextConvert app  https://text-converter-app-ozb2.vercel.app/</> 
-      <li>IMDB Clone  https://imdb-clone-ivory-three.vercel.app/</> 
-   <li>Book-hub Book store  https://book-hub-online-book-store.vercel.app/</> 
-     <li>Restaurant Website https://restaurant-website-2tku2ek30-shubhamkumar123456.vercel.app/</li>
-     <li>Cloud NoteBook Website https://notebook-frontend-blush.vercel.app/</li>
-    
-  <ul/>
 
-<h3 align="left">Connect with me:</h3>
+
+<br> <br/>
+### 📂 Featured Projects
+| Project Name | Live Demo | Description |
+| :--- | :--- | :--- |
+| **🚀 Social Media Pro** | [View Demo](https://social-media-woad-five.vercel.app/) | Full multimedia support (Images/Video) via Cloudinary. |
+| **📝 Exam Portal** | [View Demo](https://examfrontendnew.vercel.app/) | MCQ platform with real-time notes for students. |
+| **🎬 IMDB Clone** | [View Demo](https://imdb-clone-ivory-three.vercel.app/) | Movie database with dynamic routing and search. |
+| **📚 Book-Hub** | [View Demo](https://book-hub-online-book-store.vercel.app/) | Complete e-commerce flow for a bookstore. |
+| **☁️ Cloud Notebook** | [View Demo](https://notebook-frontend-blush.vercel.app/) | Secure, persistent note-taking application. |
+
+
+### 🛠️ Tech Stack & Tools
 <p align="left">
-<a href="https://www.linkedin.com/in/shubham-kumar-6a80b523a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-kumar-6a80b523a/" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,bootstrap,firebase,aws,cpp,git,vscode,postman,redux" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 📈 GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhamkumar123456&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar123456&layout=compact&theme=tokyonight"/>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamkumar123456&show_icons=true&locale=en&layout=compact" alt="shubhamkumar123456" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkumar123456&theme=tokyonight" width="100%" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamkumar123456&show_icons=true&locale=en" alt="shubhamkumar123456" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkumar123456&" alt="shubhamkumar123456" /></p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubhamkumar123456&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</div>
+
